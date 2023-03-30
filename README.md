@@ -24,7 +24,7 @@
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/AlexanderStreltsov/AlexanderStreltsov/main/.github/images/html5.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/AlexanderStreltsov/AlexanderStreltsov/main/.github/images/css3.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/AlexanderStreltsov/AlexanderStreltsov/main/.github/images/sass.svg" alt="sass" width="40" height="40"/></a>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/AlexanderStreltsov/AlexanderStreltsov/main/.github/images/python.svg" alt="python" width="60" height="40"/></a>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/AlexanderStreltsov/AlexanderStreltsov/main/.github/images/python.svg" alt="python" width="40" height="40"/></a>
 </p>
 
 ### Tools:
@@ -41,4 +41,7 @@
 <a href="http://www.gnu.org/software/bash/"> <img src="https://raw.githubusercontent.com/AlexanderStreltsov/AlexanderStreltsov/main/.github/images/bash.svg" alt="bash" width="40" height="40"/></a>
 </p>
 
+### Statistics:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderStreltsov&layout=compact)](https://github.com/AlexanderStreltsov)
+[![Alexnder's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderStreltsov)](https://github.com/AlexanderStreltsov)
