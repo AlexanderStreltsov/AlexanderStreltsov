@@ -43,5 +43,5 @@
 
 ### Statistics:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderStreltsov&layout=compact)](https://github.com/AlexanderStreltsov)
 [![Alexnder's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderStreltsov)](https://github.com/AlexanderStreltsov)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderStreltsov&layout=compact)](https://github.com/AlexanderStreltsov)
